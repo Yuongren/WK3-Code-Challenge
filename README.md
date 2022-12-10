@@ -22,6 +22,10 @@ WK3: Code Challenge
 
 Clone from [here](https://git@github.com/Yuongren/WK3-Code-Challenge.git)
 
+Run this command to check if json-server is installed `json-server -v`
+
+If not run this command to install json-server `npm install -g json-server`
+
 Run this command `json-server --watchdb.json`
 
 ```
@@ -30,14 +34,6 @@ Run this command `json-server --watchdb.json`
 ## Authors
 
 Youngren Gitonga
-
-## Version History
-
-* 0.2
-    * Various bug fixes and optimizations
-    * See [commit change]() or See [release history]()
-* 0.1
-    * Initial Release
 
 ## License
 
