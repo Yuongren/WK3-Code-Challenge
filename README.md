@@ -8,11 +8,6 @@ WK3: Code Challenge
 
 ## Getting Started
 
-### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
-
 ### Executing program
 
 Clone from [here](https://git@github.com/Yuongren/WK3-Code-Challenge.git)
