@@ -10,6 +10,12 @@ WK3: Code Challenge
 
 ### Executing program
 
+click [here](https://yuongren.github.io/WK3-Code-Challenge/)
+
+### Requirements
+
+  * chrome web
+
 Clone from [here](https://git@github.com/Yuongren/WK3-Code-Challenge.git)
 
 Run this command to check if json-server is installed `json-server -v`
