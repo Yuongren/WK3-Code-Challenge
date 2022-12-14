@@ -1,30 +1,42 @@
-/* body{
-    background: green;
-} */
-
-/* h1 {
+h1 {
     text-align: center;
     font-size: 15;
-    color: rgb(172, 9, 231);
+    color: rgb(15, 35, 15);
     font-style: tahoma;
-} */
-
-body {
-    margin: 0;
-    font-family: "Lato", sans-serif;
-    background-color: #745fde;
-}
-
-/* .button {
-    color: #0e120d
-}
-
-.sidebar {
-    margin: 0;
-    padding: 0;
-    width: 300px;
-    background-color: #656065;
-    position: fixed;
-    height: 100%;
-    overflow: auto;
-} */
+  }
+  body {
+      margin: 0;
+      font-family: "Lato", sans-serif;
+      background-color: #f3cf03;
+    }
+    .button{
+      color:#eb0606
+    }
+    .sidebar {
+      margin: 2;
+      padding: 3;
+      width: 310px;
+      background-color: #01f7ea;
+      position: fixed;
+      height: 100%;
+      overflow: auto;
+    }
+    .sidebar a {
+      display: block;
+      color: rgb(182, 10, 10);
+      padding: 10px;
+      text-decoration: none;
+    }
+    .sidebar a.active {
+      background-color: #0c49f0;
+      color: rgb(85, 11, 11);
+    }
+    .sidebar a:hover:not(.active) {
+      background-color: rgb(134, 12, 108);
+      color: rgb(104, 7, 7);
+    }
+    div.film-content {
+      margin-left: 310px;
+      padding: 2px 18px;
+      height: 1000px;
+    }

@@ -8,11 +8,6 @@ WK3: Code Challenge
 
 ## Getting Started
 
-### Dependencies
-
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
-
 ### Installing
 
 * How/where to download your program
@@ -27,8 +22,6 @@ Run this command to check if json-server is installed `json-server -v`
 If not run this command to install json-server `npm install -g json-server`
 
 Run this command `json-server --watchdb.json`
-
-```
 
 
 ## Authors
